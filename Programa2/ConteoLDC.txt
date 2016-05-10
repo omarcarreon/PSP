@@ -1,0 +1,11 @@
+PARTES BASE:
+Programa7: T=78, I=1, B=90, D=24, M=22, A=12 
+CuadruplosStruct: T=22, I=6, B=14, D=0, M=10, A=8 
+---------------------------------------------
+PARTES NUEVAS:
+Calculation: T=134, I=15 
+---------------------------------------------
+PARTES REUSADAS:
+FileHandler: T=40, I=4, B=40 
+---------------------------------------------
+Total de LDC=274
